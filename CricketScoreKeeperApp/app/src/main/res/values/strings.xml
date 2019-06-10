@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cricket Score Keeper App</string>
+    <string name="team1">India</string>
+    <string name="Score_team_1">0</string>
+    <string name="team2">England</string>
+    <string name="Score_team_2">0</string>
+    <string name="six_Button">Six</string>
+    <string name="four_Button">Four</string>
+    <string name="single_Button">Single</string>
+    <string name="out_Button">Out</string>
+    <string name="RESET_Button">RESET</string>
+
+</resources>
